@@ -25,7 +25,7 @@ body {
 }
 .header__menu{
     display: flex;
-    gap: 80px;
+    gap: 40px;
 }
 .header__menu__link{
     font-family: var(--funente_montserrat);
